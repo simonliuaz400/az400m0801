@@ -2,6 +2,7 @@
 | -------- | -------- |--------|--------|
 | ASP.NET Core | .NET Core 3.1 | Azure Web App, Virtual Machines |
 
+this if for branch testing
 
 # ASP.NET Core MVC application 
 
